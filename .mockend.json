@@ -1,0 +1,60 @@
+{
+    "User": [
+      {
+        "id": 1,
+        "e_ismi": "Kaan pala",
+        "e_mail": "json-server",
+        "e_adres": "Kartal",
+        "e_sifre": "12313"
+      },
+      {
+        "id": 1,
+        "e_ismi": "Osman Bora",
+        "e_mail": "osman@gmail.com",
+        "e_adres": "Kartal",
+        "e_sifre": "12313"
+      },
+      {
+        "id": 1,
+        "e_ismi": "Ceren su",
+        "e_mail": "ceren@gmail.com",
+        "e_adres": "Kartal",
+        "e_sifre": "12313"
+      },
+      {
+        "id": 1,
+        "e_ismi": "semanur",
+        "e_mail": "json-server",
+        "e_adres": "Kartal",
+        "e_sifre": "12313"
+      },
+      {
+        "e_ismi": "asdasdasd",
+        "e_mail": null,
+        "e_sifre": "asdasd",
+        "e_adres": null,
+        "id": 2
+      },
+      {
+        "e_ismi": "Seeansoul",
+        "e_mail": "kaan.pala@eronyazilim.com",
+        "e_sifre": "12313",
+        "e_adres": "denemeemmememee",
+        "id": 4
+      },
+      {
+        "e_ismi": "Denemem",
+        "e_mail": "kaanpala553@gmail.com",
+        "e_sifre": "123456789",
+        "e_adres": "asdasdasdasd",
+        "id": 5
+      },
+      {
+        "e_ismi": "KAanPala",
+        "e_mail": "Deneme@gmail.com",
+        "e_sifre": "asdasd",
+        "e_adres": "asdasdasd",
+        "id": 6
+      }
+    ]
+  }
